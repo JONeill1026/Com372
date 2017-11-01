@@ -1,0 +1,14 @@
+* {
+	font-family: Calibri, Helvetica, Arial, sans-serif;
+}
+
+#wrap {
+	margin: 0 auto;
+	max-width: 1024px;
+	width: 100%;
+}
+
+header {
+	text-align: center;
+}
+
